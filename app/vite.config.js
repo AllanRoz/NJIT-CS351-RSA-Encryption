@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: "/CS351-RSA-Encryption/",
 })
