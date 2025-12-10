@@ -57,7 +57,7 @@
 A website to learn about the RSA Algorithm and how it works, and a calculator to test key generation.
 
 Reasons why I made this:
-* Extra credit project NJIT CS-351 class. 
+* Extra credit project for NJIT CS-351 class. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
