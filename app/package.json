@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AllanRoz.github.io/NJIT-CS351-RSA-Algorithm/",
+  "homepage": "https://allanroz.github.io/NJIT-CS351-RSA-Algorithm/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
