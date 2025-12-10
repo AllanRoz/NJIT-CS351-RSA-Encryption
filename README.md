@@ -83,16 +83,16 @@ How to get this project installed and running a local copy on your machine.
   npm install npm@latest -g
   ```
 
-### Installation and running React app locally
+### Installation and running a React app locally
 1. Clone the repo
    ```sh
    git clone https://github.com/AllanRoz/NJIT-CS351-RSA-Algorithm.git
    ```
-2. Change into project directory
+2. Change into the project directory
    ```sh
    cd NJIT-CS351-RSA-Algorithm
    ```
-3. Change into app directory
+3. Change into the app directory
    ```sh
    cd app
    ```
